@@ -1,7 +1,7 @@
+Part 1/2
 Random Forest:
 
 Data Preparation:
-
 Datasets:
 Campaign Performance Data: Used for training the model, includes historical CTR values and campaign features.
 Submission Form Data: Contains new campaign details where CTR values need to be predicted.
