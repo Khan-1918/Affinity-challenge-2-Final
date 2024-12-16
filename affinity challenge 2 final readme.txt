@@ -1,5 +1,5 @@
+Part 2/2
 Would you suggest a different evaluation metric for this challenge?
-
 
 Objective
 Evaluate the model's performance in predicting CTR and understand why R² was successful, but RMSE could not be computed.
